@@ -1,0 +1,7 @@
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\DelegateOrnek\DelegateOrnek\bin\Debug\DelegateOrnek.exe.config
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\DelegateOrnek\DelegateOrnek\bin\Debug\DelegateOrnek.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\DelegateOrnek\DelegateOrnek\bin\Debug\DelegateOrnek.pdb
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\DelegateOrnek\DelegateOrnek\obj\Debug\DelegateOrnek.csprojResolveAssemblyReference.cache
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\DelegateOrnek\DelegateOrnek\obj\Debug\DelegateOrnek.exe
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\DelegateOrnek\DelegateOrnek\obj\Debug\DelegateOrnek.pdb
+c:\users\seyma\onedrive\belgeler\visual studio 2015\Projects\DelegateOrnek\DelegateOrnek\bin\Debug\ayarlar.txt
